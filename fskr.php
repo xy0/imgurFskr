@@ -1,6 +1,6 @@
 <?php//
     //
-   // by ~cy
+   // by ~xy0 \_|\
   //
  //
 	function is_ani($filename) {
